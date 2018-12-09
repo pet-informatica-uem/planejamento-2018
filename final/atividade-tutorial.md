@@ -40,3 +40,14 @@ meio de um questionário avaliativo conforme o número de participantes.
 
 Relatório Final (Avaliação)
 ---------------------------
+* Atividade tutorial sobre Git e GitHub:
+Foi a primeira atividade tutorial aberta ao público, devido a isso a sala estava um pouco lotada. De maneira geral a atividade foi avaliada como positiva pela comissão e pelo grupo.
+
+* Atividade tutorial sobre expressões regulares:
+O grupo avaliou a atividade como positiva, salientando o ponto de o tema ser utilizado na graduação porém não ensinado.
+
+* Atividade tutorial sobre implementação em grafos
+Parcialmente positiva, alguns participantes relataram que desconheciam alguns conceitos mais avançados da linguagem e isso atrapalhou no entendimento.
+
+* Atividade tutorial sobre Markdown
+A atividade foi avaliada como positiva sendo seu conteúdo considerado legal e interessante. Além disso, o passo a passo das demonstrações foi feito de maneira bem didática.
