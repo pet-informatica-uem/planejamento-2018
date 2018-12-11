@@ -49,4 +49,10 @@ e  sugestões de  melhorias. Estas  avaliações internas  são apresentadas  em
 reuniões do UniPET pelos petianos representantes do grupo.
 
 Relatório Final (Avaliação)
+Pet na Praça: O grupo avaliou o evento como positivo e que o movimento durante o evento fora acima do esperado.O grupo pontuou ainda que as propostas dos outros grupos foram interessantes e as atividade realizadas em conjunto entre alguns grupos PETs foram boas. A apresentação realizada pelo grupo durante o evento foi considerada positiva. Houve ainda a sugestão de realizar alguma atividade com as pessoas de terceira idade para ensinar o básico sobre informática. O trabalho do fotógrafo durante a realização do evento foi elogiado pelo grupo.
+
+Pet nas Escolas: O grupo avaliou a atividade com positiva de maneira geral. O petiano Raphael questionou se houveram perguntas específicas dos alunos sobre o curso, foi respondido que não, sobretudo por causa do tempo reduzido que tiveram com os alunos. O tutor Daniel complementou dizendo que a questão do tempo deveria ser levado para a próxima reunião do ciclo, argumentando que a atividade não teriam alcançado o objetivo de apresentar os cursos de maneira apropriada para os alunos.
+
+Unipet Cultural: As apresentações foram avaliadas como muito legais, porém foi criticada a visibilidade limitada da plateia no local. Também foi dito que em retrospectiva, a apresentação do grupo ficara leve e repercutira melhor do que se esperava. A filmagem foi criticada, com artefatos visuais e falta de foco em vários momentos, também foi criticada a dificuldade de escutar as apresentações além das primeiras fileiras do auditório.  Em relação a nossa apresentação o grupo não havia esperado corretamente o fim da reação do público antes de prosseguir em alguns momentos, dessa forma algumas partes se perderam para o público. 
+
 ---------------------------
