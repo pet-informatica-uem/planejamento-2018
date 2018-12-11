@@ -54,3 +54,5 @@ atividade como um todo serão avaliados em reunião administrativa.
 
 Relatório Final (Avaliação)
 ---------------------------
+
+* Arthur e Luiz - Uma plataforma independente para monitoração e adaptação de pequenos e médios sítios Web: conceber e implementar uma plataforma que possibilite a monitorização e a adaptação automática (por meio de sistemas de recomendação) de sites Web. A plataforma será independente da estrutura dos sites, assim como dos métodos de monitorização e adaptação que poderão vir a ser utilizados.
