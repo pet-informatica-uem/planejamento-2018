@@ -40,3 +40,6 @@ respostas e cada petiano relatará oralmente suas experiências com a atividade.
 
 Relatório Final (Avaliação)
 ---------------------------
+
+- Avaliação da comissão: a avaliação foi positiva. O objetivo foi cumprido, foi observado que os participantes estavam animados e interessados na atividade, principalmente nas dinâmicas realizadas. Porém, foi constatado que o interesse diminuiu um pouco após o primeiro dia.
+- Avaliação dos participantes: a avaliação dos participantes foi positiva, porém, um pouco menor que o avaliado no ano anterior.
