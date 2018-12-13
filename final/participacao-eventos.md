@@ -44,4 +44,16 @@ eventos.
 Relatório Final (Avaliação)
 ---------------------------
 
+* Arthur - XII JoparPET
+* Bruna - XII JoparPET & XXI SulPET
+* Caio - XXI SulPET
+* Daniel - XXIII ENAPET
+* Diogo - XXIII ENAPET & XII JoparPET
+* Elio - XXIII ENAPET
+* Gustavo - XXIII ENAPET
+* Leonarado - XXIII ENAPET
 * Luiz - XXIII ENAPET
+* Mariana - XXI SulPET
+* Rafael - XXIII ENAPET
+* Raphael - XXIII ENAPET
+* Sandro - XXI SulPET
